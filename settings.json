@@ -1,0 +1,17 @@
+{
+    "extensions.ignoreRecommendations": true,
+    // Theme
+    "workbench.colorTheme": "Cobalt Next",
+    // Font
+    "editor.fontFamily": "Fira Code",
+    "editor.fontWeight": "300",
+    "editor.fontLigatures": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "*.twig": "html"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+}
